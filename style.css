@@ -1,0 +1,15 @@
+.gallary{
+  width: 100%;
+  margin: auto;
+background-color: rgb(226, 245, 241);
+text-align: center;
+}
+.icon{
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px 0px;
+  border: 1px solid rgb(0, 0, 32);width: 25%;
+  height: 200px;
+  object-fit: cover;
+}
